@@ -1,4 +1,4 @@
 # Hello-World
 Hello there~
-Add a new time
+delete a line
 Hi I'm Ms Zhou and I teach GIT
